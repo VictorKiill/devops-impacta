@@ -25,3 +25,6 @@ Histórico de versões NGINX:
     
 Histórico de versões Wordpress:
   Modificações da penútima para útima versão(4.8/4.8.1):
+   Melhoramentos de performece e visuais
+   Conserto de aulguns erros
+   Algumas adições
